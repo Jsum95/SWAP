@@ -1,17 +1,17 @@
 # SWAP
 
 Ejercicio 1
-!(SWAP/eje1capturaServer.PNG)
+![1](SWAP/eje1capturaServer.PNG)
 
-!(SWAP/eje1capturaUser.PNG)
+![2](SWAP/eje1capturaUser.PNG)
 
 Ejercicio 2
-!(SWAP/eje2capturaUser.PNG)
+![3](SWAP/eje2capturaUser.PNG)
 
 Ejercicio 3
-!(SWAP/eje3capturaServer.PNG)
+![4](SWAP/eje3capturaServer.PNG)
 
-!(SWAP/eje3capturaUser.PNG)
+![5](SWAP/eje3capturaUser.PNG)
 
 Ejercicio 4
-!(SWAP//eje4capturabuena.PNG)
+![6](SWAP//eje4capturabuena.PNG)
